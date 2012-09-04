@@ -1,3 +1,3 @@
-# «Learn you some Erlang» на русском
+# Введение в программирование на GO
 
-Интерактивный и социальный перевод Learn you some Erlang на русский
+Перевод (Golang-book)[http://www.golang-book.com/] на русский.
