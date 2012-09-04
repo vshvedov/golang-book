@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Golang-book</title>
+ <link href="http://golang-book.geekdb.org/atom.xml" rel="self"/>
+ <link href="http://golang-book.geekdb.org"/>
+ <updated>2012-09-05T02:07:03+03:00</updated>
+ <id>http://golang-book.geekdb.org</id>
+ <author>
+   <name>Vlad Shvedov</name>
+   <email>init13@gmail.com</email>
+ </author>
+
+ 
+
+</feed>

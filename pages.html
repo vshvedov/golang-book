@@ -1,0 +1,13 @@
+---
+layout: page
+title: Страницы
+header: Страницы
+group: navigation
+---
+{% include JB/setup %}
+
+<h2>Все страницы</h2>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>

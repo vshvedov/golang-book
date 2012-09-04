@@ -1,0 +1,8 @@
+
+http://golang-book.geekdb.org/archive.html
+http://golang-book.geekdb.org/atom.xml
+http://golang-book.geekdb.org/categories.html
+http://golang-book.geekdb.org/index.html
+http://golang-book.geekdb.org/pages.html
+http://golang-book.geekdb.org/sitemap.txt
+http://golang-book.geekdb.org/tags.html
