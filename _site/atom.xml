@@ -4,7 +4,7 @@
  <title>Golang-book</title>
  <link href="http://golang-book.geekdb.org/atom.xml" rel="self"/>
  <link href="http://golang-book.geekdb.org"/>
- <updated>2012-09-05T13:46:59+03:00</updated>
+ <updated>2012-09-05T23:23:34+03:00</updated>
  <id>http://golang-book.geekdb.org</id>
  <author>
    <name>Vlad Shvedov</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Глава 1 - Приступим</title>
-   <link href="http://golang-book.geekdb.org/2012/09/05/chapter-1"/>
-   <updated>2012-09-05T00:00:00+03:00</updated>
-   <id>hhttp://golang-book.geekdb.org/2012/09/05/chapter-1</id>
+   <link href="http://golang-book.geekdb.org/01/chapter-1"/>
+   <updated>2012-09-01T00:00:00+03:00</updated>
+   <id>hhttp://golang-book.geekdb.org/01/chapter-1</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content>
  </entry>
  

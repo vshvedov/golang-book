@@ -5,4 +5,4 @@ http://golang-book.geekdb.org/index.html
 http://golang-book.geekdb.org/sitemap.txt
 http://golang-book.geekdb.org/table-of-contents.html
 
-http://golang-book.geekdb.org/2012/09/05/chapter-1
+http://golang-book.geekdb.org/01/chapter-1
