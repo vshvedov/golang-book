@@ -71,7 +71,7 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
-  archive_path: /archive.html
+  archive_path: /table-of-contents.html
   categories_path : /categories.html
   tags_path : /tags.html
 
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : golangbook
+      short_name :
     livefyre :
       site_id : 123
     intensedebate :
