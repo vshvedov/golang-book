@@ -7,6 +7,15 @@ tagline:
 
 ![cover image with a beaver on bike](/assets/cover.png)
 
+###Cодержание
+
+[Глава 1 — Приступим](/01/chapter-1/)
+
+1. Файлы и директории
+2. Терминал
+3. Текстовые редакторы
+4. Инструментарий Go
+
 ###Установка
 
 * [Установка для Windows](http://www.golang-book.com/installers/go-install.exe)
