@@ -7,7 +7,7 @@ tagline:
 
 ![cover image with a beaver on bike](/assets/cover.png)
 
-###Cодержание
+##Cодержание
 
 [Глава 1 — Приступим](/01/chapter-1/)
 <ul>
