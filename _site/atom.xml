@@ -4,7 +4,7 @@
  <title>Golang-book</title>
  <link href="http://golang-book.geekdb.org/atom.xml" rel="self"/>
  <link href="http://golang-book.geekdb.org"/>
- <updated>2012-09-13T14:41:31+03:00</updated>
+ <updated>2012-09-13T14:46:36+03:00</updated>
  <id>http://golang-book.geekdb.org</id>
  <author>
    <name>Vlad Shvedov</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Глава 2 — Ваша первая программа</title>
+   <title>Глава 2 • Ваша первая программа</title>
    <link href="http://golang-book.geekdb.org/02/chapter-2"/>
    <updated>2012-09-02T00:00:00+03:00</updated>
    <id>hhttp://golang-book.geekdb.org/02/chapter-2</id>
@@ -101,7 +101,7 @@ go run main.go
 
 &lt;p&gt;В следующей главе мы рассмотрим, как Go хранит и отображает вещи наподобие &lt;code&gt;Hello World&lt;/code&gt;, узнав о типах.&lt;/p&gt;
 
-&lt;h2 id='id2'&gt;Задания&lt;/h2&gt;
+&lt;h2 id='id5'&gt;Задания&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Что такое прoбел?&lt;/li&gt;
@@ -143,7 +143,7 @@ go run main.go
 
 &lt;p&gt;Директории (также называемые «папками») используются для того, чтобы группировать файлы. Они также могут содержать и другие директории (вложения). В Windows файлы и путь к папке (местоположение) представлены символом &lt;code&gt;\&lt;/code&gt;. Например: &lt;code&gt;C:\Users\john\example.txt&lt;/code&gt; &lt;code&gt;example.txt&lt;/code&gt; — это имя файла в папке john, которая, в свою очередь, находится в папке Users, расположенной на жестком диске C. В OSX и Linux путь к папкам и файлам представлен символом &lt;code&gt;/&lt;/code&gt;, например: &lt;code&gt;/Users/john/example.txt&lt;/code&gt;. В отличии от Windows, Mac OS X не определяет букву физического устройства (HDD) так жестко.&lt;/p&gt;
 
-&lt;h2 id='id1'&gt;Терминал&lt;/h2&gt;
+&lt;h2 id='id4'&gt;Терминал&lt;/h2&gt;
 
 &lt;p&gt;Большинство действий, которые мы совершаем с помощью компьютера, происходят с использованием сложного графического пользовательского интерфейса (GUI). Мы используем клавиатуру, мышку, тачскрин для того, чтобы взаимодействовать с визуальными элементами, кнопками и другими типами управляющих элементов, которые видны на экране.&lt;/p&gt;
 
